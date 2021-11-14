@@ -8,9 +8,6 @@
 
 A Flutter Thesaurus that uses the [Datamuse API](http://www.datamuse.com/api).
 
-- ### [Complete video](https://youtu.be/ulbY6QcVzzI)!
-- ### [Complete slides](./slides/bloc+cubit.pdf)!
-
 <table>
     <tr>
         <td style="text-align: center">
